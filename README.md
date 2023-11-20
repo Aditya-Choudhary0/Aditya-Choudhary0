@@ -31,18 +31,4 @@
 
 ###
 
-<GitHubCalendar
-              username="Aditya-Choudhary0"
-              transformData={selectLastHalfYear}
-              className="react-activity-calendar"
-              colorScheme="light"
-              fontSize={16}
-              blockSize={20}
-              blockMargin={10}
-              blockRadius={4}
-              renderBlock={handleRender}
-              theme={{
-                light: ["#3f3f3f", "#EBC296", "#DFA464", "#D7862F", "#B46D20"],
-                dark: ["#3f3f3f", "#10611E", "#1C9030", "#25AF3C", "#69DB7C"],
-              }}
-            />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Choudhary0&show_icons=true&locale=en&layout=compact" alt="Aditya Choudhary" />
