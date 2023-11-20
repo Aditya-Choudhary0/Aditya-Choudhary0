@@ -32,3 +32,6 @@
 ###
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Choudhary0&show_icons=true&locale=en&layout=compact" alt="Aditya Choudhary" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya-Choudhary0&show_icons=true&locale=en" alt="Aditya Choudhary" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Choudhary0&" alt="Aditya Choudhary" />
