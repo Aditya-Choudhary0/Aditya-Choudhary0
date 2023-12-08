@@ -6,9 +6,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-Choudhary0.Aditya-Choudhary0&right_color=plum" />
-</div>
 
 
 ###
