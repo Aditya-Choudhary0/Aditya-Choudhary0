@@ -11,6 +11,15 @@
 
 - 📫 How to reach me **adityanerves@gmail.com**
 
+###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aditya-choudhary-08134a243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-choudhary-08134a243" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.aditya_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.aditya_14" height="30" width="40" /></a>
+</p>
+
+###
+
 <h2 align="left">🛠 I Code With</h2>
 
 ###
@@ -35,6 +44,8 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
 </div>
+
+###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Choudhary0&show_icons=true&locale=en&layout=compact" alt="Aditya-Choudhary0" /></p>
 
