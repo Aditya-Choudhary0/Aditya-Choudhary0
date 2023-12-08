@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aditya-Choudhary0" alt="Aditya-Choudhary0" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack Web Development**
-
 - 👨‍💻 All of my projects are available at [https://aditya-choudhary0.github.io/](https://Aditya-Choudhary0.github.io/)
 
 - 📫 How to reach me **adityanerves@gmail.com**
