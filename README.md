@@ -4,6 +4,15 @@
 
 <br clear="both">
 
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-Choudhary0.Aditya-Choudhary0&right_color=plum" />
+</div>
+
+
+###
+
 <h2 align="left">🛠 I Code With</h2>
 
 ###
