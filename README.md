@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aditya-choudhary0.github.io/](https://Aditya-Choudhary0.github.io/)
 
-- 📫 How to reach me **adityanerves@gmail.com**
+- 📫 I am also enthusiastic about Cooking :man_cook: , playing mobile games, and playing Basketball :bouncing_ball_man:
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1haJSVLwQoB_EeEJjG-fO1fWaMmoTc3lP/view)
 
