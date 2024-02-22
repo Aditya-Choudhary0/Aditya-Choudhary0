@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-choudhary-08134a243">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/aditya-choudhary-08134a243" />
     </a>
     <a title="adityanerves@gmail.com" href="mailto:adityanerves@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="adityanerves@gmail.com" />
