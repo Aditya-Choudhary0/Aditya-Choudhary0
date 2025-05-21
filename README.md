@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Choudhary</h1>
-<h3 align="center">Dynamic Full Stack Web Developer proficient in MERN stack, delivering successful projects both independently and collaboratively. Strong problem-solving skills and meticulous attention to detail. Effective communication and adept at working in a team to optimize performance. Expertise in JavaScript, React, CSS, MongoDB, HTML, Express.js, Git, and Redux.</h3>
+<h3 align="center">DDynamic Full Stack Web Developer proficient in MERN stack, delivering successful projects both independently
+ and collaboratively. Strong problem solving skills and meticulous attention to detail. Effective communication and
+ adept at working in a team to optimize performance. Expertise in JavaScript, CSS, HTML, React, Node.js,
+ Express.js, Git, Redux, Docker, PostgreSQL, Socket.IO, Kafka and MongoDB.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya-Choudhary0&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Choudhary0" /> </p>
 
@@ -9,7 +12,7 @@
 
 - 📫 I am also enthusiastic about Cooking :man_cook: , playing mobile games, and playing Basketball :bouncing_ball_man:
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1haJSVLwQoB_EeEJjG-fO1fWaMmoTc3lP/view)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1haJSVLwQoB_EeEJjG-fO1fWaMmoTc3lP/view](https://drive.google.com/file/d/1D-u-V8ICsNin26mNAvS8BXrt4TtfzGn4/view?usp=sharing))
 
 ###
 <h3 align="left">Connect with me:</h3>
@@ -29,7 +32,7 @@
 ## Languages:
 <p dir="auto">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,react,redux,nodejs,express,mongodb,nextjs,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,react,redux,nodejs,express,mysql,postgres,mongodb,nextjs,ts,bash,kafka,redux,tailwind" />
   </a>
 </p>  
 
@@ -37,7 +40,7 @@
 ## Tools:
 <p>    
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,npm,netlify,git,github,figma,notion,ps,vercel,vscode" />
+    <img src="https://skillicons.dev/icons?i=docker,postman,npm,netlify,git,github,figma,firebase,notion,ps,vercel,vscode,vite" />
   </a>
 </p>
 
