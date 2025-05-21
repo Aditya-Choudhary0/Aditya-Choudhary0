@@ -12,7 +12,7 @@
 
 - 📫 I am also enthusiastic about Cooking :man_cook: , playing mobile games, and playing Basketball :bouncing_ball_man:
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1haJSVLwQoB_EeEJjG-fO1fWaMmoTc3lP/view](https://drive.google.com/file/d/1D-u-V8ICsNin26mNAvS8BXrt4TtfzGn4/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1D-u-V8ICsNin26mNAvS8BXrt4TtfzGn4/view?usp=sharing)
 
 ###
 <h3 align="left">Connect with me:</h3>
