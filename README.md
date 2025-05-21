@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Choudhary</h1>
-<h3 align="center">DDynamic Full Stack Web Developer proficient in MERN stack, delivering successful projects both independently
+<h3 align="center">Dynamic Full Stack Web Developer proficient in MERN stack, delivering successful projects both independently
  and collaboratively. Strong problem solving skills and meticulous attention to detail. Effective communication and
  adept at working in a team to optimize performance. Expertise in JavaScript, CSS, HTML, React, Node.js,
  Express.js, Git, Redux, Docker, PostgreSQL, Socket.IO, Kafka and MongoDB.</h3>
